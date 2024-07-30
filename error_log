@@ -1,0 +1,297 @@
+[25-Jul-2024 16:16:37 America/Mexico_City] Array
+(
+    [X-Api-Key] => Y%MzJA:R}:G{=Q(U;wx6T
+    [User-Agent] => PostmanRuntime/7.40.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => 32a8683d-d512-4245-8812-25f4030572c5
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[25-Jul-2024 16:16:37 America/Mexico_City] Datos recibidos: null
+[25-Jul-2024 16:16:37 America/Mexico_City] Datos no proporcionados en la solicitud
+[25-Jul-2024 16:18:16 America/Mexico_City] Array
+(
+    [X-Api-Key] => Y%MzJA:R}:G{=Q(U;wx6T
+    [User-Agent] => PostmanRuntime/7.40.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => a2a60ca4-92af-43f3-bfe2-c24f4ca78aad
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[25-Jul-2024 16:18:16 America/Mexico_City] Datos recibidos: null
+[25-Jul-2024 16:18:16 America/Mexico_City] Datos no proporcionados en la solicitud
+[25-Jul-2024 16:18:22 America/Mexico_City] Array
+(
+    [X-Api-Key] => Y%MzJA:R}:G{=Q(U;wx6T
+    [User-Agent] => PostmanRuntime/7.40.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => 98ebd41b-e321-4435-a415-79b7509c12bb
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[25-Jul-2024 16:18:22 America/Mexico_City] Datos recibidos: null
+[25-Jul-2024 16:18:22 America/Mexico_City] Datos no proporcionados en la solicitud
+[25-Jul-2024 16:29:44 America/Mexico_City] Array
+(
+    [X-Api-Key] => Y%MzJA:R}:G{=Q(U;wx6T
+    [User-Agent] => PostmanRuntime/7.40.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => 183ee832-25a6-4bf5-85fc-d64988d76702
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[25-Jul-2024 16:29:44 America/Mexico_City] Datos recibidos: null
+[25-Jul-2024 16:29:44 America/Mexico_City] Datos no proporcionados en la solicitud
+[25-Jul-2024 16:31:26 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function AttendanceController::__construct(), 0 passed in /home/sistematpilot/public_html/Apis/asistencia/index.php on line 15 and exactly 1 expected in /home/sistematpilot/public_html/Apis/asistencia/controllers/AttendanceController.php:6
+Stack trace:
+#0 /home/sistematpilot/public_html/Apis/asistencia/index.php(15): AttendanceController->__construct()
+#1 {main}
+  thrown in /home/sistematpilot/public_html/Apis/asistencia/controllers/AttendanceController.php on line 6
+[25-Jul-2024 16:31:58 America/Mexico_City] Array
+(
+    [X-Api-Key] => Y%MzJA:R}:G{=Q(U;wx6T
+    [User-Agent] => PostmanRuntime/7.40.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => bbbcde79-ac07-4552-a04f-5e9c19608335
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[25-Jul-2024 16:31:58 America/Mexico_City] Datos recibidos: null
+[25-Jul-2024 16:31:58 America/Mexico_City] Datos no proporcionados en la solicitud
+[25-Jul-2024 16:32:22 America/Mexico_City] Array
+(
+    [X-Api-Key] => Y%MzJA:R}:G{=Q(U;wx6T
+    [User-Agent] => PostmanRuntime/7.40.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => f9841037-0dc7-459a-a232-f9b21ac6a519
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[25-Jul-2024 16:32:22 America/Mexico_City] Datos recibidos: null
+[25-Jul-2024 16:32:22 America/Mexico_City] Datos no proporcionados en la solicitud
+[25-Jul-2024 16:43:39 America/Mexico_City] Array
+(
+    [X-Api-Key] => Y%MzJA:R}:G{=Q(U;wx6T
+    [User-Agent] => PostmanRuntime/7.40.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => 678f5584-7949-49f9-b7f5-8f898af5af8f
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[25-Jul-2024 16:43:39 America/Mexico_City] Datos recibidos: null
+[25-Jul-2024 16:43:39 America/Mexico_City] Datos no proporcionados en la solicitud
+[25-Jul-2024 17:06:46 America/Mexico_City] Array
+(
+    [Host] => sistematpilot.com
+    [Range] => bytes=0-99999
+    [Accept] => */*
+    [User-Agent] => WhatsApp/2.23.20.0
+    [Accept-Language] => es-MX,es-419;q=0.9,es;q=0.8
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [X-Https] => 1
+)
+
+[25-Jul-2024 17:12:42 America/Mexico_City] Array
+(
+    [Host] => sistematpilot.com
+    [Connection] => keep-alive
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Ch-Ua] => "Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Sec-Fetch-Site] => cross-site
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br
+    [Accept-Language] => es-ES,es;q=0.9
+    [X-Https] => 1
+)
+
+[25-Jul-2024 17:20:46 America/Mexico_City] Array
+(
+    [Host] => sistematpilot.com
+    [Connection] => keep-alive
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => cross-site
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Sec-Ch-Ua] => "Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Accept-Encoding] => gzip, deflate, br
+    [Accept-Language] => es-ES,es;q=0.9
+    [X-Https] => 1
+)
+
+[25-Jul-2024 17:22:21 America/Mexico_City] Array
+(
+    [User-Agent] => PostmanRuntime/7.39.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => de291b3e-978a-4890-a9d8-58ce500a7255
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/%20HTTP/1.1
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[25-Jul-2024 17:22:46 America/Mexico_City] Array
+(
+    [User-Agent] => PostmanRuntime/7.39.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => 3a2a64a9-60a9-4eb3-a340-07a70f781f86
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/HTTP/1.1
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[25-Jul-2024 17:23:18 America/Mexico_City] Array
+(
+    [Apikey] => 1
+    [User-Agent] => PostmanRuntime/7.39.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => 86893324-8cec-4993-9ed9-603bb1209bf0
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/HTTP/1.1
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[25-Jul-2024 17:23:41 America/Mexico_City] Array
+(
+    [X-Api-Key] => Censurado
+    [User-Agent] => PostmanRuntime/7.39.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => b2f86585-c9e4-49fe-9272-19bb8e0bd603
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/HTTP/1.1
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[25-Jul-2024 17:24:41 America/Mexico_City] Array
+(
+    [Api-Key] => Censurado
+    [User-Agent] => PostmanRuntime/7.39.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => 24c9f93b-a6a1-497a-b2c8-4de1a9839b2f
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/HTTP/1.1
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[25-Jul-2024 17:24:51 America/Mexico_City] Array
+(
+    [Api] => Censurado
+    [User-Agent] => PostmanRuntime/7.39.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => 99b33f69-bbf8-434b-bec4-9e4c0183ea7c
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/HTTP/1.1
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[26-Jul-2024 09:30:55 America/Mexico_City] Array
+(
+    [X-Api-Key] => Y%MzJA:R}:G{=Q(U;wx6T
+    [User-Agent] => PostmanRuntime/7.40.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => ee85fdea-bf2c-4e19-8267-7b91802eb888
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[26-Jul-2024 09:30:55 America/Mexico_City] Datos recibidos: null
+[26-Jul-2024 09:30:55 America/Mexico_City] Datos no proporcionados en la solicitud
+[26-Jul-2024 10:22:13 America/Mexico_City] Array
+(
+    [X-Api-Key] => Y%MzJA:R}:G{=Q(U;wx6T
+    [User-Agent] => PostmanRuntime/7.40.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => ea6e18ca-777c-4525-8f41-05dfc72fcf24
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[26-Jul-2024 10:22:13 America/Mexico_City] Datos recibidos: null
+[26-Jul-2024 10:22:13 America/Mexico_City] Datos no proporcionados en la solicitud
+[27-Jul-2024 10:34:53 America/Mexico_City] Array
+(
+    [X-Api-Key] => Y%MzJA:R}:G{=Q(U;wx6T
+    [User-Agent] => PostmanRuntime/7.40.0
+    [Accept] => */*
+    [Cache-Control] => no-cache
+    [Postman-Token] => 3f5162a6-2af3-4d5a-8d4b-887abf1ef640
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Referer] => http://sistematpilot.com/Apis/asistencia/
+    [Host] => sistematpilot.com
+    [X-Https] => 1
+)
+
+[27-Jul-2024 10:34:53 America/Mexico_City] Datos recibidos: null
+[27-Jul-2024 10:34:53 America/Mexico_City] Datos no proporcionados en la solicitud
